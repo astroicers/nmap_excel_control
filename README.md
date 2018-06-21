@@ -8,7 +8,10 @@ Nmap Excel Control
 
 3.設定環境變數
 
-4.下載並安裝python函數[Openpyxl](https://bitbucket.org/openpyxl/openpyxl)和[python-nmap](https://pypi.org/project/python-nmap/)
+4.下載並安裝python函數[Openpyxl](https://bitbucket.org/openpyxl/openpyxl)
+
+5.下載並安裝python函數[python-nmap](https://pypi.org/project/python-nmap/)，如果無法安裝請將檔案內的nmap資料夾放到
+`C:\Python27\Lib\site-packages`
 
 ## 參考
 1.https://xael.org/pages/python-nmap-en.html
